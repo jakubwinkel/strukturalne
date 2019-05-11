@@ -1,1 +1,2 @@
 # strukturalne
+//komentarz test
